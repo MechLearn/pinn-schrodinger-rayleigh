@@ -1,0 +1,22 @@
+{
+  "potential": "infinite_well_rayleigh",
+  "n": 2,
+  "experiment_name": "rayleigh_A1",
+  "seed": 1,
+  "E_learned": 39.478416442871094,
+  "E_exact": 39.47841760435743,
+  "E_rel": 2.9420792643193257e-08,
+  "L2": 5.0243805379629605e-05,
+  "integral": 0.9999974844691644,
+  "final_loss": 8.378874917980283e-05,
+  "final_pde": 8.378865459235385e-05,
+  "final_norm": 6.266986929404084e-12,
+  "epochs": 6000,
+  "N_col": 4096,
+  "hidden": 128,
+  "use_sine": true,
+  "lam_hi": 40.0,
+  "lam_lo": 15.0,
+  "lr0": 0.0007,
+  "device": "cuda"
+}

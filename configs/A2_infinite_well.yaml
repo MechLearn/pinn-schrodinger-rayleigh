@@ -1,0 +1,9 @@
+# configs/A2_infinite_well.yaml
+experiment_name: rayleigh_A2
+save_dir: outputs/runs_rayleigh
+
+model:
+  hidden: 256
+  use_sine: true
+
+seed: 0
