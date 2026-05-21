@@ -1,0 +1,23 @@
+{
+  "potential": "harmonic_rayleigh",
+  "n": 2,
+  "experiment_name": "rayleigh_harmonic_A1",
+  "seed": 0,
+  "E_learned": 2.142072916030884,
+  "E_exact": 1.5,
+  "E_rel": 0.4280486106869705,
+  "L2": 0.4074497551514185,
+  "integral": 0.9997365065239929,
+  "final_loss": 0.006312238983809948,
+  "final_pde": 0.006311199627816677,
+  "final_norm": 6.928166840225458e-08,
+  "epochs": 6000,
+  "N_col": 6144,
+  "hidden": 128,
+  "use_sine": true,
+  "domain_L": 6.0,
+  "lam_hi": 40.0,
+  "lam_lo": 15.0,
+  "lr0": 0.0007,
+  "device": "cuda"
+}

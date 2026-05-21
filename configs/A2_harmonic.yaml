@@ -1,0 +1,9 @@
+experiment_name: rayleigh_harmonic_A2
+save_dir: outputs/runs_rayleigh_harmonic
+
+model:
+  hidden: 256
+  use_sine: true
+
+domain_L: 6.0
+seed: 0
